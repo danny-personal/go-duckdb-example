@@ -3,9 +3,9 @@ Playing with DuckDB.
 
 ## Installation.
 ```bash
-pip install duckdb==0.8.1
-vscode ➜ /usr/bin $ export PATH="/usr/bin:$PATH"
-vscode ➜ /usr/bin $ source ~/.bashrc
+vscode ➜ /workspaces/go-duckdb-example (main) $ pip install duckdb==0.8.1
+vscode ➜ /workspaces/go-duckdb-example (main) $ export PATH="/usr/bin:$PATH"
+vscode ➜ /workspaces/go-duckdb-example (main) $ source ~/.bashrc
 ```
 
 ## Usage.
