@@ -1,10 +1,14 @@
 # go-duckdb-example
 Playing with DuckDB.
 
+## Installation.
 ```bash
 pip install duckdb==0.8.1
+vscode ➜ /usr/bin $ export PATH="/usr/bin:$PATH"
+vscode ➜ /usr/bin $ source ~/.bashrc
 ```
 
+## Usage.
 ```bash
 vscode ➜ /usr/bin $ pwd
 /usr/bin
@@ -22,9 +26,4 @@ D select 43;
 └───────┘
 D .exit
 vscode ➜ /usr/bin $ 
-```
-
-```bash
-vscode ➜ /usr/bin $ export PATH="/usr/bin:$PATH"
-vscode ➜ /usr/bin $ source ~/.bashrc
 ```
