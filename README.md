@@ -3,7 +3,6 @@ Playing with DuckDB.
 
 ## Installation.
 ```bash
-vscode ➜ /workspaces/go-duckdb-example (main) $ pip install duckdb==0.8.1
 vscode ➜ /workspaces/go-duckdb-example (main) $ export PATH="/usr/bin:$PATH"
 vscode ➜ /workspaces/go-duckdb-example (main) $ source ~/.bashrc
 ```
